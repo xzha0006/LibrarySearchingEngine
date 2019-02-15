@@ -1,0 +1,8 @@
+dog,f1.txt,1,f2.txt,1,0.916
+eat,f1.txt,2,f3.txt,1,0.916
+cat,f1.txt,1,f4.txt,1,f5.txt,2,0.511
+mous,f2.txt,1,1.609
+mice,f3.txt,1,f4.txt,1,0.916
+littl,f3.txt,1,1.609
+plai,f4.txt,1,f5.txt,1,0.916
+rat,f4.txt,1,1.609
